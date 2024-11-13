@@ -8,7 +8,7 @@
 # (The URL above told me how to use the infile method)
 #https://www.pythonclassroom.com/files
 #ChatGPT "Get advice on trying to start a program reads key-value pairs from a file
-#generates corresponding ASCII art, and print the result, in Python (no code!)"" 11/10/2024
+#generates corresponding ASCII art, and print the result, in Python (no code!)"" 11/10/2024, Online Tutor
 # This code works because I was able to add the prompt.txt to my
 # Github repostiory; I couldn't remember how you did in on class on Monday, but
 # hopefully the code still works the same!
