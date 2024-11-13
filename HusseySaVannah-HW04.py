@@ -7,7 +7,8 @@
 #https://documentation.sas.com/doc/en/lecompobjref/9.4/n0zvtjw02x6kkgn1s4vip8o7qxq4.htm#:~:text=The%20INFILE%20method%20reads%20Python,the%20Python%20function%20definition%20statement.
 # (The URL above told me how to use the infile method)
 #https://www.pythonclassroom.com/files
-#ChatGPT "" 11/10/2024
+#ChatGPT "Get advice on trying to start a program reads key-value pairs from a file
+#generates corresponding ASCII art, and print the result, in Python (no code!)"" 11/10/2024
 # This code works because I was able to add the prompt.txt to my
 # Github repostiory; I couldn't remember how you did in on class on Monday, but
 # hopefully the code still works the same!
